@@ -1,0 +1,5 @@
+{
+  "name": "FinRegX: AI Regulatory Readiness Platform",
+  "description": "An AI-driven platform to automate the Qatar Central Bank (QCB)’s fintech licensing pre-screening process. It ingests startup documents, detects compliance gaps, and outputs a readiness scorecard with actionable recommendations.",
+  "requestFramePermissions": []
+}
